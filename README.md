@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rutujagadhave19
 - 👀 I’m interested in  web developement and app developement.
 - 📫 How to reach me
-- linkedin- linkedin.com/in/rutuja-gadhave-3a85b4257
+- linkedin- https://www.linkedin.com/in/rutuja-gadhave-3a85b4257
 - gmail-rutujagadhave19@gmail.com
 
 <!---
